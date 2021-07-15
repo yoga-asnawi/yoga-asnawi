@@ -8,12 +8,10 @@ I'm Yoga Asnawi interested in becoming a Full Stack Web Developer because during
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently working at @Toptal
-- :computer: Most used line of code `git commit -m "Initial Commit"`
-- 🤔 I’m looking for help with Outstanding Video ideas.
-- 📫 How to reach me: islempenywis@gmail.com.
-- 😄 Pronouns: CoderOne, Ipenywis, islempenywis.
-- ⚡ Fun fact: I play games and go to the GYM very often.
+- 👀 I’m interested in Full Stack webdeveloper
+- 🤔 I’m searched for help through youtube and saw thousands of Videos with Amazing ideas.
+- 📫 How to reach me: yogaasnawi2@gmail.com.
+- ⚡ Fun fact: learning programming even though it's hard but I don't give up and still love to learn programming
 
 #### Top Technologies
 
