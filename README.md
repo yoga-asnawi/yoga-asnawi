@@ -1,12 +1,10 @@
 ## Hi I'm Yoga  <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm  Yoga Asnawi tertarik menjadi seseorang Full Stack Web Developer Karena disaat Pandemi seperti ini kita kaya berdiam diri di rumah.
-I'm Yoga Asnawi interested in becoming a Full Stack Web Developer because during a pandemic like this we are like staying at home. 
-I spend most of my time coding awesome projects or following tutorial videos.
+I'm Yoga Asnawi interested in becoming a Full Stack Web Developer because during a pandemic like this we are like staying at home. I spend most of my time coding awesome projects or following tutorial videos.
 
 :mailbox: Reach me out!
 
-[![Twitter Badge](https://img.shields.io/badge/-@Ipenywis-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Yoga_Asnawi)](https://twitter.com/Yoga_Asnawi) [![Mail Badge](https://img.shields.io/badge/-CoderOne-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCOCxK0wtVvCDS-3wLK_3LHA) [![Linkedin Badge](https://img.shields.io/badge/-Islem-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yoga-asnawi/) [![Mail Badge](https://img.shields.io/badge/-@islempenywis-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/yoga.a.s_/) [![Mail Badge](https://img.shields.io/badge/-islempenywis-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:yogaasnawi2@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@Yoga Asnawi-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Yoga_Asnawi)](https://twitter.com/Yoga_Asnawi) [![Mail Badge](https://img.shields.io/badge/-Starlab-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCOCxK0wtVvCDS-3wLK_3LHA) [![Linkedin Badge](https://img.shields.io/badge/-Yoga-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yoga-asnawi/) [![Mail Badge](https://img.shields.io/badge/-@Yoga.a.s-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/yoga.a.s_/) [![Mail Badge](https://img.shields.io/badge/-yogaasnawi2-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:yogaasnawi2@gmail.com)
 
 <!-- TODO: Add last video link -->
 
@@ -53,13 +51,9 @@ I spend most of my time coding awesome projects or following tutorial videos.
 <br />
 
 #### Bizness
-- :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf)
-- :email: ipenywis@gmail.com
+- :paperclip: [My Resume/CV](https://drive.google.com/file/d/1VCx4bToJt-UhrzeNKjOm-cXgX48Aja69/view?usp=sharing)
+- :email: yogaasnawi2@.com
 
-
-#### Profile Visits 
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ipenywis.ipenywis)
 
 <details>
 <summary>
@@ -68,32 +62,27 @@ I spend most of my time coding awesome projects or following tutorial videos.
 
 <br >
 
-I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, and tjat's why CoderOne Youtube Channel exists!
-
-#### What is CoderOne?
-
-CoderOne is a youtube channel for learning Web/Mobile development, coding and design. Including new technologies and frameworks and anything really related to development world.
 
 #### Coding Stats
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript   15 hrs 41 mins  ████████████████████▓░░░░   82.29 % 
-HTML         1 hr 50 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
+HTML & CSS   15 hrs 41 mins  ████████████████████▓░░░░   82.29 % 
+React JS     1 hr 50 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
 Markdown     1 hr 27 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
 Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
-YAML         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+Python       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 ```
 <!--END_SECTION:waka-->
 
 #### Github Stats
 
-![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=ipenywis&count_private=true&theme=tokyonight&hide=contribs,prs)
+![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=yoga-asnawi&count_private=true&theme=tokyonight&hide=contribs,prs)
 
 </details>
 
 
-[reactplaylist]: https://www.youtube.com/watch?v=KxXXEL-k47Y&list=PLvXDmnBbOF7RnYiZvDwl2Pzcs2kfi10wd
+[reactplaylist]: https://www.youtube.com/playlist?list=PLU4DS8KR-LJ03qEsHn9zV4qdhcWtusBqb
 [vscodetutorial]: https://www.youtube.com/watch?v=Bkie2ai8qeE&t=8s
-[htmltutorial]: https://www.youtube.com/watch?v=VK6MXVxOsws&t=27s
-[javascripttutorial]: https://www.youtube.com/watch?v=D-LHKvmX37E
+[htmltutorial]: https://www.youtube.com/c/WebProgrammingUNPAS/playlists?view=50&sort=dd&shelf_id=1
+[javascripttutorial]: https://www.youtube.com/watch?v=SDROba_M42g
