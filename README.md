@@ -51,7 +51,7 @@ Jakarta, Desember 2019
 <br />
 
 #### Bizness
-- :paperclip: [My Resume/CV](https://drive.google.com/file/d/1VCx4bToJt-UhrzeNKjOm-cXgX48Aja69/view?usp=sharing)
+- :paperclip: [My Resume/CV](#)
 - :email: yogaasnawi2@.com
 
 
