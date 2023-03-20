@@ -1,6 +1,8 @@
 ## Hi I'm Yoga  <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm Yoga Asnawi interested in becoming a Full Stack Web Developer because during a pandemic like this we are like staying at home. I spend most of my time coding awesome projects or following tutorial videos Jakarta 2019.
+I'm Yoga Asnawi interested in becoming a Full Stack Web Developer because during a pandemic like this we are like staying at home. I spend most of my time coding awesome projects or following tutorial videos. 
+
+Jakarta 1 Mei 2019
 
 :mailbox: Reach me out!
 
