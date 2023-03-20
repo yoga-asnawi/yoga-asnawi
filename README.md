@@ -2,7 +2,7 @@
 
 I'm Yoga Asnawi interested in becoming a Full Stack Web Developer because during a pandemic like this we are like staying at home. I spend most of my time coding awesome projects or following tutorial videos. 
 
-Jakarta 1 Mei 2019
+Jakarta, Desember 2019
 
 :mailbox: Reach me out!
 
