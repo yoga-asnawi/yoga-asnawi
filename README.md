@@ -67,12 +67,14 @@ Jakarta, Desember 2019
 
 <br >
 #### Learning Stats
-START_SECTION:waka
+<br >
+<!--START_SECTION:waka-->
 ```text
 Tryhackme            3 hrs 00 mins  ████████████████████▓░░░░   10.00 % 
-hacktrace ranges     3 hrs 00 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+hacktrace-ranges     3 hrs 00 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
 Youtube              4 hr 00 mins   ████████░░░░░░░░░░░░░░░░░   10.00 % 
-END_SECTION:waka
+```
+<!--END_SECTION:waka-->
 <!----
 #### Coding Stats
 --->
