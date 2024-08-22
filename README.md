@@ -83,7 +83,7 @@ Youtube              4 hr 00 mins   ████████░░░░░░�
 
 <!--START_SECTION:waka-->
 ```text
-https://agoy2024.blogspot.com/
+agoy2024.blogspot.com/
 ```
 <!--END_SECTION:waka-->
 
