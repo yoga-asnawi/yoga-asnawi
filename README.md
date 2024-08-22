@@ -71,9 +71,9 @@ Jakarta, Desember 2019
 <!--START_SECTION:waka-->
 <!----
 ```text
-HTML & CSS   15 hrs 41 mins  ████████████████████▓░░░░   82.29 % 
-React JS     1 hr 50 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
-Markdown     1 hr 27 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
+Tryhackme            15 hrs 41 mins  ████████████████████▓░░░░   82.29 % 
+hacktrace ranges     1 hr 50 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
+Other                1 hr 27 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
 Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 Python       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 ```
