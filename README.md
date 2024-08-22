@@ -67,7 +67,7 @@ Jakarta, Desember 2019
 
 <br >
 #### Learning Stats
-<br >
+
 <!--START_SECTION:waka-->
 ```text
 
