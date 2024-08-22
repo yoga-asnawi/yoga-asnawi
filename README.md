@@ -53,7 +53,7 @@ Jakarta, Desember 2019
 <br />
 <br />
 --->
-#### Bizness
+#### Contact me
 - :paperclip: [My Resume/CV](#)
 - :email: yogaasnawi2@.com
 
@@ -65,10 +65,11 @@ Jakarta, Desember 2019
 
 <br >
 
-
+<!----
 #### Coding Stats
-
+--->
 <!--START_SECTION:waka-->
+<!----
 ```text
 HTML & CSS   15 hrs 41 mins  ████████████████████▓░░░░   82.29 % 
 React JS     1 hr 50 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
@@ -76,8 +77,9 @@ Markdown     1 hr 27 mins    ██░░░░░░░░░░░░░░░
 Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 Python       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 ```
+---->
 <!--END_SECTION:waka-->
-
+<!----
 #### Github Stats
 
 ![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=yoga-asnawi&count_private=true&theme=tokyonight&hide=contribs,prs)
@@ -89,3 +91,4 @@ Python       2 mins          ░░░░░░░░░░░░░░░░░
 [vscodetutorial]: https://www.youtube.com/watch?v=Bkie2ai8qeE&t=8s
 [htmltutorial]: https://www.youtube.com/c/WebProgrammingUNPAS/playlists?view=50&sort=dd&shelf_id=1
 [javascripttutorial]: https://www.youtube.com/watch?v=SDROba_M42g
+--->
