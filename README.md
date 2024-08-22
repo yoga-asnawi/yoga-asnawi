@@ -73,12 +73,113 @@ Jakarta, Desember 2019
 
 Tryhackme            3 hrs 00 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
 hacktrace-ranges     3 hrs 00 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   10.00 %
-Note Learning        8 hr 00 mins   ████████████░░░░░░░░░░░░░   11.00 %
+Learning Nots        8 hr 00 mins   ████████████░░░░░░░░░░░░░   11.00 %
 Youtube              4 hr 00 mins   ████████░░░░░░░░░░░░░░░░░   10.00 % 
 
 ```
 <!--END_SECTION:waka-->
-[Note Learning]: https://agoy2024.blogspot.com/
+<br >
+#### Learning Nots
+
+<!--START_SECTION:waka-->
+```text
+https://agoy2024.blogspot.com/
+```
+<!--END_SECTION:waka-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!----
 #### Coding Stats
 --->
