@@ -16,7 +16,7 @@ Jakarta, Desember 2019
 - ⚡ Fun fact: learning programming even though it's hard but I don't give up and still love to learn programming
 
 #### Learning
-<img src="https://tryhackme-badges.s3.amazonaws.com/ITachi.png" a herf="https://tryhackme.com/p/ITachi">TryHackMe</a>
+<script src="https://tryhackme.com/badge/318930"></script>
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
