@@ -66,7 +66,10 @@ Jakarta, Desember 2019
 </summary>
 
 <br >
-
+#### Learning Stats
+Tryhackme            3 hrs 00 mins  ████████████████████▓░░░░   10.00 % 
+hacktrace ranges     3 hrs 00 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Youtube              4 hr 00 mins   ████████░░░░░░░░░░░░░░░░░   10.00 % 
 <!----
 #### Coding Stats
 --->
@@ -83,12 +86,9 @@ Python       2 mins          ░░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 <!----
 #### Github Stats
-
+<!----
 ![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=yoga-asnawi&count_private=true&theme=tokyonight&hide=contribs,prs)
-
 </details>
-
-
 [reactplaylist]: https://www.youtube.com/playlist?list=PLU4DS8KR-LJ03qEsHn9zV4qdhcWtusBqb
 [vscodetutorial]: https://www.youtube.com/watch?v=Bkie2ai8qeE&t=8s
 [htmltutorial]: https://www.youtube.com/c/WebProgrammingUNPAS/playlists?view=50&sort=dd&shelf_id=1
